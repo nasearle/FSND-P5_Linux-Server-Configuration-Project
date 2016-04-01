@@ -6,8 +6,9 @@ SSH Port: 2200
 URL: [http://52.27.14.228](http://52.27.14.228) 
 
 An installation of Ubuntu Linux on a virtual machine to host a Flask web application.
-The Linux server is configured to install updates automatically, ban potential 
-attackers, and has monitoring software installed.
+The Flask application files are included in this repository. The Linux server is 
+configured to install updates automatically, ban potential attackers, and has 
+monitoring software installed.
 
 ### Using the Application:
 Go to the URL above in a webbrowser. Log in (button at the top right 
