@@ -22,7 +22,7 @@ initial login, only the creator of a restaurant will be able to edit it.
 3. Updated installed packages
 4. Changed the SSH port from 22 to 2200 in /etc/ssh/sshd_config
 5. Disallowed login as root and allowed login as grader
-6. Configured the local timezone to UTC with $ dpkg-reconfigure tzdata
+6. Configured the local timezone to UTC with `$ dpkg-reconfigure tzdata`
 7. Configured the firewall to allow ports 2200, 80 and 123
 8. Installed Apache and configured it to serve a mod_wsgi application
 9. Installed Git
@@ -43,8 +43,9 @@ initial login, only the creator of a restaurant will be able to edit it.
 ### Additional Functionality:
 1. Installed fail2ban and configured it to ban a potential attacker for
 	10 minutes after 3 unsuccessful login attempts are made within a 10-minute window.
-2. Included scripts to automatically manage package updates
-3. Installed Glances and PySensors to monitor application status. Type $ glances into
+2. Included scripts to automatically manage package updates with `$ sudo apt-get install unattended-upgrades`
+and then `$ sudo dpkg-reconfigure -plow unattended-upgrades`
+3. Installed Glances and PySensors to monitor application status. Type `$ glances` into
 the command line to see the output
 	
 ### Resources:
