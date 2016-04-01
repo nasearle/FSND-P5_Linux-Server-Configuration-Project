@@ -49,10 +49,20 @@ will be able to edit it.
 the command line to see the output
 	
 ### Resources:
+https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04
+https://help.ubuntu.com/community/UFW
 https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-14-04
 https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 http://askubuntu.com/questions/293426/system-monitoring-tools-for-ubuntu
 https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
+http://www.postgresql.org/docs/9.1/static/app-createuser.html
+http://www.postgresql.org/docs/9.1/static/auth-pg-hba-conf.html
+http://killtheyak.com/use-postgresql-with-django-flask/
+http://flask.pocoo.org/docs/0.10/config/
+http://drumcoder.co.uk/blog/2010/nov/12/apache-environment-variables-and-mod_wsgi/
+http://askubuntu.com/questions/293426/system-monitoring-tools-for-ubuntu
+https://discussions.udacity.com/t/p5-how-i-got-through-it/15342
+https://discussions.udacity.com/t/markedly-underwhelming-and-potentially-wrong-resource-list-for-p5/8587
 
 
 
