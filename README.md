@@ -10,12 +10,11 @@ The Linux server is configured to install updates automatically, ban potential
 attackers, and has monitoring software installed.
 
 ### Using the Application:
-Go to the URL above in a webbrowser. Logging in (button at the top right 
-corner of the front page) with either a Google+ or Facebook account will
-allow you to create and edit Restaurants and Menu Items. By default, the
-first account you log in with will be able to edit the sample restaurants
-and menu items. After this initial login, only the creator of a restaurant
-will be able to edit it.
+Go to the URL above in a webbrowser. Log in (button at the top right 
+corner of the front page) with either a Google+ or Facebook account to create 
+and edit Restaurants and Menu Items. By default, the first account you log in
+with will be able to edit the sample restaurants and menu items. After this 
+initial login, only the creator of a restaurant will be able to edit it.
 
 ### Installed Software and Configuration Changes:
 1. Created .ssh directory in root home and added public key to authorized_keys file in .ssh
