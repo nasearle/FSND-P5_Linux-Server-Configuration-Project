@@ -16,7 +16,7 @@ and edit Restaurants and Menu Items. By default, the first account you log in
 with will be able to edit the sample restaurants and menu items. After this 
 initial login, only the creator of a restaurant will be able to edit it.
 
-### Installed Software and Configuration Changes:
+### Installed Software and Configuration Changes on Linux Server:
 1. Created .ssh directory in root home and added public key to authorized_keys file in .ssh
 2. Added user 'grader' and granted it permission to sudo
 3. Updated installed packages
