@@ -30,7 +30,7 @@ will be able to edit it.
 10. Installed and enabled mod_wsgi
 11. Created directory /var/www/catalog/catalog for the Flask app
 12. Installed virtualenv and gave it full permissions
-13. Installed Flask inside the virtual environment
+13. Installed Flask
 14. Configured and enabled a new virtual host by editing /etc/apache2/sites-available/catalog.conf
 15. Created the wsgi file in /var/www/catalog and restarted Apache
 16. Cloned P3 GitHub repository and placed files in /var/www/catalog/catalog
