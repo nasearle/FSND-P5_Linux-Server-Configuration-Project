@@ -1,7 +1,9 @@
 ## Linux Server Configuration Project
-IP Address: 52.27.14.228 \s\s
-SSH Port: 2200 \s\s
-URL: [http://52.27.14.228](http://52.27.14.228) \s\s
+IP Address: 52.27.14.228
+
+SSH Port: 2200
+
+URL: [http://52.27.14.228](http://52.27.14.228) 
 
 An installation of Ubuntu Linux on a virtual machine to host a Flask web application.
 The Linux server is configured to install updates automatically, ban potential 
