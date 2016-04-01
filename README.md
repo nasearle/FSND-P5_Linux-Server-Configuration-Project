@@ -44,7 +44,7 @@ initial login, only the creator of a restaurant will be able to edit it.
 1. Installed fail2ban and configured it to ban a potential attacker for
 	10 minutes after 3 unsuccessful login attempts are made within a 10-minute window.
 2. Included scripts to automatically manage package updates with `$ sudo apt-get install unattended-upgrades`
-and then `$ sudo dpkg-reconfigure -plow unattended-upgrades`
+and then `$ sudo dpkg-reconfigure unattended-upgrades`
 3. Installed Glances and PySensors to monitor application status. Type `$ glances` into
 the command line to see the output
 	
