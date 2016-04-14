@@ -10,6 +10,11 @@ The Flask application files are included in this repository. The Linux server is
 configured to install updates automatically, ban potential attackers, and has 
 monitoring software installed.
 
+**Note:** Access to the AWS server instance has expired. The app is no longer reachable
+at the above address. To get a copy of the app to try out locally, go to the 
+[FSND-P3_Item-Catalog repository](https://github.com/nasearle/FSND-P3_Item-Catalog) 
+and follow the instructions in the readme.
+
 ### Using the Application:
 Go to the URL above in a webbrowser. Log in (button at the top right 
 corner of the front page) with either a Google+ or Facebook account to create 
@@ -64,6 +69,8 @@ http://drumcoder.co.uk/blog/2010/nov/12/apache-environment-variables-and-mod_wsg
 http://askubuntu.com/questions/293426/system-monitoring-tools-for-ubuntu
 https://discussions.udacity.com/t/p5-how-i-got-through-it/15342
 https://discussions.udacity.com/t/markedly-underwhelming-and-potentially-wrong-resource-list-for-p5/8587
+
+ssh grader@52.27.14.228 -i ~/.ssh/graderLinuxCourse -p 2200
 
 
 
